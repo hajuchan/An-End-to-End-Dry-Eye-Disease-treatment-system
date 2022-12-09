@@ -1,4 +1,9 @@
-﻿using System;
+﻿
+#Stimulator part for DED stimulator 
+
+#2022.12.09. Juchan Ha & Jaehoon Cheon
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,7 +20,6 @@ namespace Test_2
         Form1 f1;
         DateTime dt;
         double stimulseconds = 5;
-        //double Form2_off;
         public Form2()
         {
             InitializeComponent();
@@ -40,19 +44,19 @@ namespace Test_2
         {
             if (f1.k > 4 && f1.k < 6)
             {
-                Current.Text = "1mA 자극";
+                Current.Text = "1mA";
             }
             else if (f1.k > 5 && f1.k < 7)
             {
-                Current.Text = "2mA 자극";
+                Current.Text = "2mA";
             }
             else if (f1.k > 6 && f1.k < 8)
             {
-                Current.Text = "3mA 자극";
+                Current.Text = "3mA";
             }
             else if (f1.k > 7)
             {
-                Current.Text = "4mA 자극";
+                Current.Text = "4mA";
             }
             dt = new DateTime();
             timer1.Interval = 1000;
