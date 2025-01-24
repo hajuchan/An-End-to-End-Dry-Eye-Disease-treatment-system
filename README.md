@@ -9,6 +9,7 @@ Our device checks blink rate using EOG (electrooculogram) signal and determine w
 instructions are necessary. The device also uses a stopwatch function and event that pass 
 data between forms for checking people have followed the directions. 
 
+## Result
 <img width="1514" alt="image" src="https://github.com/user-attachments/assets/10a8e085-979c-4999-be41-38078f49c663" />
 <img width="1508" alt="image" src="https://github.com/user-attachments/assets/372eaa9d-488e-49af-99b1-7009c16d1024" />
 <img width="1412" alt="image" src="https://github.com/user-attachments/assets/b95371b9-f313-46e2-9faa-53401b777596" />
