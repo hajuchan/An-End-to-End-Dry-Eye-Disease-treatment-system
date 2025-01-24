@@ -1,4 +1,5 @@
-Recently, the online culture has become established due to the influence of Corona 19, 
+## Abstract
+Recently, the online environment has become distributed due to the influence of Corona 19, 
 and the usage time of online devices has increased. If you focus on the screen for a long 
 time, such as laptops and smartphones, the blink rate will decrease more than usual, which 
 will worsen eye health such as dry eye syndrome. To prevent eye health from getting worse, 
@@ -18,4 +19,6 @@ data between forms for checking people have followed the directions.
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/41189a72-82c6-4b98-8713-9bd9fb42d951" />
 <img width="660" alt="image" src="https://github.com/user-attachments/assets/b2623612-dece-4c49-9124-6697500f4231" />
 
+## Demo
+https://github.com/user-attachments/assets/0fec37c6-0c41-4a97-9842-9f74ff8f254a
 
